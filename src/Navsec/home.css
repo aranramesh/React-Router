@@ -1,0 +1,7 @@
+.flex ul{
+    display: flex;
+    list-style: none;
+}
+.flex ul li{
+    margin: 10px;
+}
